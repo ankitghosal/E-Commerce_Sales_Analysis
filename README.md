@@ -7,7 +7,7 @@ This repository features a Power BI dashboard built on e-commerce store data to 
 
 ## Screenshot
 
-![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+![dashboard preview](https://github.com/ankitghosal/E-Commerce_Sales_Analysis/blob/66154b51cd2c68df15fab32d912d6e6cb859f758/sales_dashboard_image.png)
 
 ## Installation
 
