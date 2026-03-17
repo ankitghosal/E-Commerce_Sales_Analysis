@@ -18,9 +18,6 @@ To run this project on your machine you need to install <a href="https://powerbi
 
 * Microsoft Power BI
 
-## Credits
-
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
 
 ## Badges
 
