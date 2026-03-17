@@ -2,8 +2,8 @@
 
 ## Description
 
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
-<!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
+This repository features a Power BI dashboard built on e-commerce store data to analyze and answer key business questions. It provides insights into sales performance, customer behavior, and revenue trends through interactive visualizations, enabling data-driven decision-making and a clear understanding of overall business performance.
+
 
 ## Screenshot
 
